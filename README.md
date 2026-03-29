@@ -1,6 +1,6 @@
 This is a team project for AI 570, using FER 2013 dataset to classify emotions.
 
-1. Goal: Able to correctly identify emotions with light models. (I personally aim at at 65% precsion and recall)
+1. Goal: Able to correctly identify emotions with light models. 
 
 2. Challenge: data with low recogition, imbalanced classes
 
